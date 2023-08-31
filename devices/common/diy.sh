@@ -19,7 +19,7 @@ sed -i 's/$(TARGET_DIR)) install/$(TARGET_DIR)) install --force-overwrite --forc
 sed -i "s/DEFAULT_PACKAGES:=/DEFAULT_PACKAGES:=luci-app-advanced luci-app-firewall luci-app-gpsysupgrade luci-app-opkg luci-app-upnp luci-app-autoreboot \
 luci-app-wizard luci-base luci-compat luci-lib-ipkg luci-lib-fs \
 luci-app-accesscontrol luci-app-adbyby-plus luci-app-filebrowser luci-app-samba4 luci-app-sqm luci-app-syncdial luci-app-vlmcsd automount \
-luci-app-wolplus luci-app-acme luci-app-alist luci-app-aliyundrive-webdav luci-app-aria2 luci-app-arpbind luci-app-attendedsysupgrade luci-app-cifs-mount \
+luci-app-wolplus luci-app-acme luci-app-aliyundrive-webdav luci-app-aria2 luci-app-arpbind luci-app-attendedsysupgrade luci-app-cifs-mount \
 luci-app-autotimeset luci-app-cpulimit luci-app-cloudreve luci-app-ddns luci-app-diskman luci-app-easymesh luci-app-hd-idle luci-app-gowebdav \
 luci-app-jd-dailybonus luci-app-homeassistant luci-app-ksmbd luci-app-mosdns luci-app-mwan3 luci-app-oaf luci-app-ramfree luci-app-nlbwmon \
 luci-app-quickstart luci-app-netspeedtest luci-app-qbittorrent luci-app-parentcontrol luci-app-netdata luci-app-openvpn-server luci-app-rclone \
